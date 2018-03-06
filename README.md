@@ -1,0 +1,1 @@
+Please ignore this repository as it is used for testing [import-module](https://github.com/i96751414/import-module) only.
